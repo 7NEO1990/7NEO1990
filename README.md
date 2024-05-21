@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7NEO1990
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web/software development. 
+- 🌱 I’m currently learning software devopment.
+- 💞️ I’m looking to collaborate on web or software solutions.
 - 📫 How to reach me chris.cook106@gmail.com
 
 <!---
